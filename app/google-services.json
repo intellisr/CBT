@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891620607468",
+    "project_id": "ceylonbus-1df9f",
+    "storage_bucket": "ceylonbus-1df9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891620607468:android:ad714105475f4a8cc32cc9",
+        "android_client_info": {
+          "package_name": "com.google.ceylonbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891620607468-4raru2h5lf87rkgqu35e6k0ikfl3kpu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BZ4O0eXlG_A0mq4_MJi0v4zc7REO8HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891620607468-4raru2h5lf87rkgqu35e6k0ikfl3kpu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
